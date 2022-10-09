@@ -369,15 +369,10 @@ h1 {
 .see-all-btn {
   text-align: center;
 }
-.outro-sect {
-  display: flex;
-  margin: 3em 0;
-}
-.outro-sect .outro {
-
-}
-.get-row{
+.get-row {
   position: relative;
+  width: 50%;
+  margin: 100px auto 0;
 }
 .get-row img {
   cursor: pointer;
@@ -389,9 +384,8 @@ h1 {
 .item1 {
   position: absolute;
   left: 230px;
-  top: -100px;
-  bottom: px;
+  top: -40px;
   display: flex;
   flex-direction: column;
-  gap:200px;
+  gap: 50px;
 }
